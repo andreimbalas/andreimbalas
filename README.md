@@ -1,3 +1,3 @@
 # andreimbalas
 
-This is my readme file I am making my first changes to it right now
+This repository is a test repository for the cs1200 class at Northeastern
